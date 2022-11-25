@@ -1,15 +1,22 @@
 {
-  "name": "hackathonpecjson",
+  "name": "json-transformation",
   "version": "1.0.0",
-  "description": "",
+  "description": "Create an application that will do below",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kushagra0347/json-transformation.git"
+  },
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kushagra0347/json-transformation/issues"
+  },
+  "homepage": "https://github.com/Kushagra0347/json-transformation#readme",
   "dependencies": {
-    "csv-parse": "^5.3.2",
     "express": "^4.18.2",
     "papaparse": "^5.3.2"
   }
